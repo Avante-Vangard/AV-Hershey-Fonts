@@ -52,11 +52,13 @@ a major part of his paper.
 
 ## Acknowledgements
 
-* Derived from character stroke coordinates by Allen V. Hershey
-  published in "Calligraphy for Computers" (US Naval Weapons
+* Derived from character stroke coordinates by Allen V. Hershey:
+  These shapes were published as maps (shapes) in [_Calligraphy for Computers_](https://archive.org/details/DTIC_AD0662398) (US Naval Weapons
   Laboratory, 1967-08-01, NWL Report No. 2101, NTIS accession number
-  AD-662 398) and elsewhere. These coordinates were published without
-  copyright.
+  AD-662 398) and elsewhere. The coordinate data were published later in 1976 by
+  Norman M. Wolcott, Joseph Hilsenrath of U.S. Department of Commerce, National Bureau of Standards, in the paper
+  [_A Contribution to Computer Typesetting Techniques: Tables of Coordinates for Hershey's Repertory of Occidental Type Fonts and Graphic Symbols_](https://books.google.com/books?id=tGzop78ZCnMC)
+  also without copyright. 
 
 * The efforts of the Usenet Font Consortium (James Hurt, et al) who
   reformatted Hershey's data and published it to mod.sources on

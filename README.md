@@ -13,11 +13,14 @@ OpenType format. All curves are approximated with short straight li segments.
 Initially, the fonts keep the names inherited from AV-Hershey-OTF, but
 these names don't match the data presented in [_Calligraphy for Computers_](https://archive.org/details/DTIC_AD0662398).
 However, The upstream project references "tables" which aren't in the 
-_Calligraphy for Computers_ paper, but appear to be referencing [_A Contribution to Computer Typesetting Techniques_](https://books.google.com/books?id=tGzop78ZCnMC), by Norman M. Wolcott, Joseph Hilsenrath of 
-U.S. Department of Commerce, National Bureau of Standards, 1976. This work references Hershey as the source of the data. 
-I have to research how universal this misnaming is, and come up with some
-appropriate names that respect Hershey's work, yet more accurately describe
-the contents. 
+_Calligraphy for Computers_ paper, but appear to be referencing [_A Contribution to Computer Typesetting Techniques_](https://books.google.com/books?id=tGzop78ZCnMC), 
+by Norman M. Wolcott, Joseph Hilsenrath of U.S. Department of Commerce, 
+National Bureau of Standards, 1976. This 1976 work references Hershey as the
+source of the data, and may be the source of the mislabeled glyphs which 
+don't match the complexity labels defined by Hershey. I have to research how 
+universal this misnaming is (appears to be pretty wide, but I dont' see it in
+the 1976 paper yet. Hopefully I can come up with some appropriate names that 
+respect Hershey's work, yet more accurately describe the contents. 
 
 The point is, in this repo files are sorted into groups by font style, and
 not by file type:

@@ -11,7 +11,7 @@ OpenType format. All curves are approximated with short straight li segments.
 ## Files
 
 Initially, the fonts keep the names inherited from AV-Hershey-OTF, but
-these names don't match the data presented in _"Calligraphy for Computers"_.
+these names don't match the data presented in [_Calligraphy for Computers_](https://archive.org/details/DTIC_AD0662398).
 I have to research how universal this misnaming is, and come up with some
 appropriate names that respect Hershey's work, yet more accurately describe
 the contents. 
